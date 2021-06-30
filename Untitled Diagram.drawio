@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T08:16:14.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="n5AGrOrK2GY3gHvD_2Ji" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T08:23:24.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="ddjGOO66zOLEuXG8a4zu" version="14.8.2" type="github">
   <diagram id="kOJuyeo2aSySZOu3wLHm" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="6V-X-tAMPdsCcbsQMixR-3" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;C&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;verticalAlign=bottom;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="155" width="450" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="6V-X-tAMPdsCcbsQMixR-4" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6V-X-tAMPdsCcbsQMixR-4" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="234" y="290" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6V-X-tAMPdsCcbsQMixR-5" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6V-X-tAMPdsCcbsQMixR-5" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="297.5" width="165" height="165" as="geometry" />
         </mxCell>
       </root>
